@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://serverless-solutions.com/wp-content/uploads/2025/01/SQL-Server.png"  />
+  <img src="https://serverless-solutions.com/wp-content/uploads/2025/01/SQL-Server.png" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
